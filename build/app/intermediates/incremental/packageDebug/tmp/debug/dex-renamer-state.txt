@@ -1,0 +1,4 @@
+#Wed Aug 02 00:55:01 EET 2023
+base.0=D\:\\Flutter_ITI_Practise\\day_10\\Tasks\\task\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
